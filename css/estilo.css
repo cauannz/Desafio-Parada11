@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f1f1f1;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.titulo {
+  text-align: center;
+}
+
+.imagem-bolo {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.imagem-bolo img {
+  max-width: 100%;
+  height: auto;
+}
+
+.ingredientes {
+  margin-bottom: 20px;
+}
+
+.instrucoes ol {
+  padding-left: 20px;
+}
+
+.instrucoes li {
+  margin-bottom: 10px;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 30px;
+  color: #888;
+}
